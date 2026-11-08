@@ -1,3 +1,3 @@
-v2.606
-弹窗文字下移居中; 自定义模板一次性; 修复发版缓存死锁。
-https://cdn.jsdelivr.net/gh/Jcs930228/ir-fw@cb5bbeb5da54022b9a71fd1441fb28954ce0f48a/latest.bin
+v2.607
+检查源多路回退; 弹窗文字下移居中; 自定义模板一次性。
+https://cdn.jsdelivr.net/gh/Jcs930228/ir-fw@ab20ef31f3a178b21bb49642e141006586229fad/latest.bin
