@@ -1,2 +1,3 @@
-v2.604
-自定义模板改为一次性: 创建设备后模板清空, 选模板页不再显示旧按键。
+v2.606
+弹窗文字下移居中; 自定义模板一次性; 修复发版缓存死锁。
+https://cdn.jsdelivr.net/gh/Jcs930228/ir-fw@cb5bbeb5da54022b9a71fd1441fb28954ce0f48a/latest.bin
