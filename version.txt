@@ -1,3 +1,3 @@
-v2.609
-检查/下载 URL 缓存键随机化, 彻底根治发版滞留; 自动清空历史自定义模板。
-https://cdn.jsdelivr.net/gh/Jcs930228/ir-fw@a59ce5cd5b1f4f4b3329dfa21bdeee2a0cbf4501/latest.bin
+v2.610
+设备改名真实化: 改名后旧型号可重新添加, 修复「设备已存在」误报。
+https://cdn.jsdelivr.net/gh/Jcs930228/ir-fw@c1feacc849df0eb27a7afa5464c254a84454fb09/latest.bin
