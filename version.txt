@@ -1,3 +1,3 @@
-v2.611
-新增一键分享: 蓝牙把遥控器分享给其他设备, 修磁贴重启。
-https://cdn.jsdelivr.net/gh/Jcs930228/ir-fw@b4d39772653f7252a64bbbfb0972a014a23eb6a5/latest.bin
+v2.670
+分享折叠型号行只显型号; 空调温度0.5度全链路+电源键两帧连学(v2.669)
+https://cdn.jsdelivr.net/gh/Jcs930228/ir-fw@ee128b28c292eab87430e60eec862ad9ee7f1da4/latest.bin
