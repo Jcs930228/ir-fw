@@ -1,3 +1,3 @@
-v2.674
-OTA调试版(含net_ota日志恢复), 复现点立即更新真实下载流程
-https://cdn.jsdelivr.net/gh/Jcs930228/ir-fw@3dce5a98ce0eaed708236fbde484bd29527ccb1d/latest.bin
+v2.675
+OTA下载必崩修复: 任务栈回内部RAM(flash擦除禁cache期间PSRAM栈不可访问)
+https://cdn.jsdelivr.net/gh/Jcs930228/ir-fw@5a0d43840eb0b6762333d1ca1a2d84b89ba17fef/latest.bin
