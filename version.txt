@@ -1,3 +1,3 @@
-v2.671
-OTA检查源顺序修复: cdn升主源/fastly滞留v2.611降备源; 含v2.670分享折叠行只显型号
-https://cdn.jsdelivr.net/gh/Jcs930228/ir-fw@b3378460e26e6cd7a984ca9e8da6ae8fbfde4dc2/latest.bin
+v2.672
+在线更新链路验收测试版(无功能改动, 含v2.671检查源修复+v2.670分享只显型号)
+https://cdn.jsdelivr.net/gh/Jcs930228/ir-fw@902eac5f40fc7d2dcf80c6a42c0b4109dc45a61b/latest.bin
