@@ -1,3 +1,3 @@
-v2.677
-OTA期间禁止idle熄屏: 下载开始暂停idle并点屏, 结束(成功/失败/取消)恢复; 修复升级中屏幕熄灭误以为死机
-https://cdn.jsdelivr.net/gh/Jcs930228/ir-fw@9f5a78a2e58e0328f77c757f732a87b80ade29a7/latest.bin
+v2.679
+新增IR-02气体报警器遥控模板(18键,实物照片); 内置模板23->24, 自定义槽迁移#v3->#v4
+https://cdn.jsdelivr.net/gh/Jcs930228/ir-fw@2ba23bdfe875865ba2a70d59295601eb2216f871/latest.bin
