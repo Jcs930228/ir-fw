@@ -1,3 +1,3 @@
-v2.680
-修复连续学习时学完一键点下一键误变绿; 目标键名局部锁定防竞态, 标绿只停本键闪烁
-https://cdn.jsdelivr.net/gh/Jcs930228/ir-fw@b8b524bf904dc06f6cb9c067f03c3242f5c35328/latest.bin
+v2.681
+修复学完一键立刻学下一键时下一键未按键误变绿(残余帧跨会话去重)+非学习态垃圾键, 取消学习后按原遥控器退出帧不再入库
+https://cdn.jsdelivr.net/gh/Jcs930228/ir-fw@c38acb869f6293639219a8d890c903ef9f9098b3/latest.bin
