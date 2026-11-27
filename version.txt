@@ -1,3 +1,3 @@
-v2.681
-修复学完一键立刻学下一键时下一键未按键误变绿(残余帧跨会话去重)+非学习态垃圾键, 取消学习后按原遥控器退出帧不再入库
-https://cdn.jsdelivr.net/gh/Jcs930228/ir-fw@c38acb869f6293639219a8d890c903ef9f9098b3/latest.bin
+v2.682
+学习延迟取证日志版(无逻辑改动): 学习链三段耗时(帧捕获/存盘/标绿)上日志, 定位按键后干等3~10秒问题
+https://cdn.jsdelivr.net/gh/Jcs930228/ir-fw@be2facbe43c2f6beef9d678fe9ac76cfe851eff4/latest.bin
